@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ProgressBar", "ProgressBar\ProgressBar.pyproj", "{E6F60410-BFEF-459A-9418-0F61C0FEA82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F60410-BFEF-459A-9418-0F61C0FEA82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F60410-BFEF-459A-9418-0F61C0FEA82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {409B65B9-EA61-4147-8D42-649DA233EEA2}
+	EndGlobalSection
+EndGlobal
